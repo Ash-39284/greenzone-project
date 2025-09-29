@@ -1,0 +1,93 @@
+/* Colours for this page
+Blue: #1D4478
+Green: #80CB28
+*/
+
+body{
+    border:0%;
+
+}
+
+/* navigation bar design */
+
+nav{
+    width: 100%;
+    }
+
+nav,ul{
+    list-style-type: none;
+    background-color:#FFFF;
+    padding: 0px;
+    margin: 0px;
+    overflow:hidden;
+}
+nav,a{
+     color:#80CB28;
+     text-decoration: none;
+     padding: 15px;
+     display: block;
+     text-align:center;
+    }
+
+ nav a:hover{
+    background-color:#1D4478 ;
+    }
+
+nav,li{
+float:left;
+    }
+
+/* header section design */
+
+header{
+    text-align: center;
+    padding-top: 5%;
+ 
+}
+
+.header-paragraph{
+    color:#80CB28;
+}
+
+header,h2{
+    color:#1D4478 ;
+}
+
+/*Main content page design */
+
+.main-page-content{
+ border: #1D4478;
+ border-style: solid;
+ border-width: 3.5px;
+ padding-top: 15px;
+ padding-left: 15px;
+ border-radius: 5%;
+ box-shadow: #204d86;
+}
+
+#window-clean-content{
+border: black;
+border-style: solid;
+text-wrap: center;
+width: 12%;
+box-shadow: inset;
+border-radius: 5%;
+}
+
+#wc-head{
+margin: 2%;
+padding-block: 2%;
+}
+
+#wc-p{
+margin:2%;
+
+}
+
+#garden-maintenance-content{
+
+}
+
+#gm-p{
+    
+}
